@@ -1,0 +1,20 @@
+# build output
+Source/bin/
+Source/obj/
+*.pdb
+*.user
+.vs/
+
+# generated at runtime
+GameData/Xenobiology/PluginData/ForestCache/
+GameData/Xenobiology/PluginData/*.cfg
+
+# release builds
+release/
+*.zip
+
+# Python / OS clutter
+__pycache__/
+*.pyc
+Thumbs.db
+.DS_Store

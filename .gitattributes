@@ -1,0 +1,12 @@
+* text=auto
+*.cs   text eol=crlf
+*.cfg  text eol=crlf
+*.md   text
+*.py   text
+*.mu   binary
+*.dds  binary
+*.png  binary
+*.wav  binary
+*.ogg  binary
+*.dll  binary
+*.blend binary
